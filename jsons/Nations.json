@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "The Protagonists",
+		"leaderName": "Main Character",
+		"adjective": ["Canonical"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
