@@ -3,9 +3,9 @@
 		"name": "forced military service",
 		"uniqueTo": "Crimnex",
 		"cost": 480,
-		"happiness": -5%,
+		"happiness": -5 %,
 		"culture": 5,
-		"science": -5%,
+		"science": -5 %,
 		"maintenance": 10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Barracks",
@@ -16,8 +16,8 @@
 		"uniqueTo": "Crimnex",
 		"cost": 480,
 		"hurryCostModifier": 160,
-		"happiness": -7%,
-		"gold": 10, 15%,
+		"happiness": -7 %,
+		"gold": 10, 15 %,
 		"requiredTech": "currency"
 	}
 ]
