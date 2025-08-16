@@ -1,25 +1,23 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "forced military service",
+		"uniqueTo": "Crimnex",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": -5%,
+		"culture": 5,
+		"science": -5%,
+		"maintenance": 10,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Barracks",
+		"requiredTech": "Civil serivce"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "raise tax!",
+		"uniqueTo": "Crimnex",
+		"cost": 480,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"happiness": -7%,
+		"gold": 10, 15%,
+		"requiredTech": "currency"
 	}
 ]
