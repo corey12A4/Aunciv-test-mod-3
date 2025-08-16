@@ -7,7 +7,7 @@
 		"culture": 5,
 		"science": ,
 		"maintenance": 10,
-		"uniques": ["[+25]%"] Production when constructing [land] units [in this city]"],
+		"uniques": ["[+25]% Production when constructing [land] units [in this city]"],
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Barracks",
 		"requiredTech": "Civil serivce"
