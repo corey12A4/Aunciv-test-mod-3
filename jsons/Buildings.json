@@ -17,9 +17,9 @@
 		"uniqueTo": "Crimnex",
 		"cost": 150,
 		"hurryCostModifier": 200,
-		"happiness": ["[-10]%"]",
+		"happiness": ["[-10]%"],
 		"gold": 10,
-		"uniques": ["[+10]% gold"]"
+		"uniques": ["[+10]% gold"],
 		"requiredTech": "currency"
 	}
 ]
